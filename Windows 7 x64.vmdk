@@ -1,0 +1,27 @@
+# Disk DescriptorFile
+version=1
+encoding="Shift_JIS"
+CID=fffffffe
+parentCID=ffffffff
+createType="twoGbMaxExtentSparse"
+
+# Extent description
+RW 8323072 SPARSE "Windows 7 x64-s001.vmdk"
+RW 8323072 SPARSE "Windows 7 x64-s002.vmdk"
+RW 8323072 SPARSE "Windows 7 x64-s003.vmdk"
+RW 8323072 SPARSE "Windows 7 x64-s004.vmdk"
+RW 8323072 SPARSE "Windows 7 x64-s005.vmdk"
+RW 8323072 SPARSE "Windows 7 x64-s006.vmdk"
+RW 8323072 SPARSE "Windows 7 x64-s007.vmdk"
+RW 4653056 SPARSE "Windows 7 x64-s008.vmdk"
+
+# The Disk Data Base 
+#DDB
+
+ddb.adapterType = "lsilogic"
+ddb.geometry.cylinders = "3916"
+ddb.geometry.heads = "255"
+ddb.geometry.sectors = "63"
+ddb.longContentID = "0db625e83405d4eefae4fb7efffffffe"
+ddb.uuid = "60 00 C2 9b 06 f5 b1 d7-45 17 88 e9 42 3e 67 95"
+ddb.virtualHWVersion = "16"
