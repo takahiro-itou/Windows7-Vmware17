@@ -1,0 +1,22 @@
+# Disk DescriptorFile
+version=1
+CID=ab95fb64
+parentCID=ffffffff
+createType="monolithicFlat"
+
+# Extent description
+RW 262144 FLAT "Windows7-Data1-flat.vmdk" 0
+
+# The Disk Data Base 
+#DDB
+
+ddb.adapterType = "ide"
+ddb.encoding = "Shift_JIS"
+ddb.longContentID = "04e52b7d3c38a3c055ec3cdcab95fb64"
+ddb.toolsInstallType = "1"
+ddb.toolsVersion = "10338"
+ddb.uuid.image = "bd7cab5b-69b2-4c5e-a5b3-201ef7fd5990"
+ddb.uuid.modification = "00000000-0000-0000-0000-000000000000"
+ddb.uuid.parent = "00000000-0000-0000-0000-000000000000"
+ddb.uuid.parentmodification = "00000000-0000-0000-0000-000000000000"
+ddb.virtualHWVersion = "4"
