@@ -6,8 +6,12 @@
 /*.vmem.lck/
 /Windows 7 x64.nvram
 /Windows 7 x64.scoreboard
+/Windows 7 x64-?.scoreboard
 /Windows 7 x64.vmdk.lck/
 /Windows 7 x64.vmx.lck/
+/caches/
 /mksSandbox.log
+/mksSandbox-?.log
 /vmware.log
+/vmware-?.log
 
