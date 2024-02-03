@@ -2,3 +2,12 @@
 /Windows 7 x64-s*.vmdk
 /Windows7-Data1-flat.vmdk
 
+/*.vmem
+/*.vmem.lck/
+/Windows 7 x64.nvram
+/Windows 7 x64.scoreboard
+/Windows 7 x64.vmdk.lck/
+/Windows 7 x64.vmx.lck/
+/mksSandbox.log
+/vmware.log
+
