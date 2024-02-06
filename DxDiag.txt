@@ -1,7 +1,7 @@
 ------------------
 System Information
 ------------------
-Time of this report: 2/5/2024, 19:25:26
+Time of this report: 2/6/2024, 21:43:47
        Machine name: W7P64VMPC
    Operating System: Windows 7 Professional 64-bit (6.1, Build 7601) Service Pack 1 (7601.win7sp1_ldr_escrow.190220-1800)
            Language: Japanese (Regional Setting: Japanese)
@@ -11,7 +11,7 @@ System Manufacturer: VMware, Inc.
           Processor: Intel(R) Core(TM) i3-10105F CPU @ 3.70GHz, ~3.7GHz
              Memory: 2048MB RAM
 Available OS Memory: 2048MB RAM
-          Page File: 644MB used, 3450MB available
+          Page File: 670MB used, 3424MB available
         Windows Dir: C:\Windows
     DirectX Version: DirectX 11
 DX Setup Parameters: Not found
