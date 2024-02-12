@@ -1,7 +1,7 @@
 # Disk DescriptorFile
 version=1
 encoding="Shift_JIS"
-CID=b65cae0a
+CID=b5b0979a
 parentCID=ffffffff
 createType="twoGbMaxExtentSparse"
 
@@ -22,7 +22,7 @@ ddb.adapterType = "lsilogic"
 ddb.geometry.cylinders = "3916"
 ddb.geometry.heads = "255"
 ddb.geometry.sectors = "63"
-ddb.longContentID = "504f6d0b0bb1b46cf1ca8b38b65cae0a"
+ddb.longContentID = "4f1e9786c8ec4a730d5c183db5b0979a"
 ddb.toolsInstallType = "1"
 ddb.toolsVersion = "12384"
 ddb.uuid = "60 00 C2 9b 06 f5 b1 d7-45 17 88 e9 42 3e 67 95"
